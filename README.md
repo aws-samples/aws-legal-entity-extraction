@@ -14,7 +14,7 @@ Clone the required files by
 git clone https://github.com/aws-samples/aws-legal-entity-extraction.git
 ```
 
-Follow the instructions from the blog provided : 
+Follow the instructions from the blog provided : https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/
 
 
 
